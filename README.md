@@ -1,4 +1,4 @@
-# ML Challenge 2025 Problem Statement
+# Amazon ML Challenge 2025 Problem Statement
 
 ## Smart Product Pricing Challenge
 
